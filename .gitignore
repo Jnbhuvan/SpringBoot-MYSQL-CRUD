@@ -83,7 +83,7 @@ Desktop.ini
 application-local.properties
 application-local.yml
 application-local.yaml
-
+application.properties
 ###########################################
 # Temporary Files
 ###########################################
